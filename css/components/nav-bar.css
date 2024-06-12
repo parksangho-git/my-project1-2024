@@ -13,5 +13,12 @@
 }
 
 .nav_link {
+    position: relative;
     color: #2e363e;
+}
+
+.nav_notification {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
 }
